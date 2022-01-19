@@ -18,3 +18,7 @@ section {
 footer {
 	background-color: #a2d9ff;
 }
+
+p {
+	margin-bottom: 0 !important;
+}
